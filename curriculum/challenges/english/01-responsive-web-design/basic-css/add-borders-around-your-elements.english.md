@@ -73,6 +73,11 @@ tests:
 
   .smaller-image {
     width: 100px;
+  
+  /* change code below */
+  
+  /* change code above */
+  
   }
 </style>
 
